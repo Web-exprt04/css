@@ -1,0 +1,65 @@
+
+
+
+
+ /* img{
+    width: 200px;
+    height: 200px;
+   border: 10px solid black;
+   filter: grayscale(100%);
+}
+img:hover{
+    width: 200px;
+    height: 200px;
+   border: 10px solid black;
+   opacity: 0.5;
+ filter: grayscale(0%);
+
+}
+.main{
+    height: 100vh;
+background-color: red;
+margin: 0%;
+padding: 0%;
+
+background-image: url(./marguerite-729510_1280.jpg);
+} */
+
+
+.container {
+    /* height: 100vh; /* Full height of the viewport */
+    margin: auto;
+    background-image: url(./images.jpeg); /* Background image for the container */
+    background-repeat: repeat; /* Repeat the background image */
+     justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    display: grid;
+    */
+}
+
+p {
+    color: white; /* Text color */
+    font-weight: bold; /* Use 'bold' instead of '50px' for font weight */
+    text-align: center; /* Center text */
+    background-color: rgb(58, 58, 22,0.6); /* Background color for the text */
+    padding: 20px; /* Add some padding around the text */
+}
+
+
+
+
+    
+ 
+
+body{
+    background-image:url(./images\ \(1\).jpeg);
+}
+.container{
+    height: 100vh;
+    margin: auto;
+    background-image: url(./images\ \(1\).jpeg);
+    background-repeat: repeat;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
